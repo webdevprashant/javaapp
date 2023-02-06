@@ -4,7 +4,7 @@
 <title>Java APP</title>
 </head>
 <body>
-	<h1> Hello World  LW MY Vicky Ghosla</h1>
+	<h1> Hello World</h1>
 
 </body>
 </html>
